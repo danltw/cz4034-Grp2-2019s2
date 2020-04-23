@@ -1,3 +1,5 @@
+# SOLR/Web Server
+
 A. Assuming one is using xampp to run PHP file
 
 1. Place the project folder under htdocs folder in xampp
