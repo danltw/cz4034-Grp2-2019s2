@@ -1,0 +1,1 @@
+df['DateTime'].dt.strftime('%Y-%m-%d %M:%S')
