@@ -1,0 +1,17 @@
+CNN
+STcom
+BusinessTimes
+ChannelNewsAsia
+NBCNews
+nytimes
+BBCNews
+BBCWorld
+guardian
+WSJ
+ABC
+MailOnline
+guardiannews
+CBSNews
+XHNews
+SCMPNews
+TODAYonline
